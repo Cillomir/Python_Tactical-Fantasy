@@ -1,0 +1,176 @@
+Martial_Names = ["Aaron", "Adam", "Aiden", "Alan", "Albert", "Alexander",
+    "Alfred", "Allen", "Alvin", "Ambrose", "Andrew", "Angus", "Anthony",
+    "Arnold", "Arthur", "Ashton", "Austin", "Baldwin", "Barclay", "Barnaby",   
+    "Barret", "Bart", "Baxter", "Benedict", "Benjamin", "Bernard", "Bertram", 
+    "Blair", "Blake", "Bradley", "Brandon", "Brian", "Bruce", "Burton",
+    "Caleb", "Calvin", "Cameron", "Carl", "Carter", "Cayden", "Cedric",
+    "Chadwick", "Charles", "Christopher", "Clark", "Clayton", "Clifford",
+    "Clinton", "Cody", "Colin", "Colton", "Conrad", "Cory", "Curtis", "Dale",
+    "Dallas", "Dalton", "Damian", "Daniel", "Darcy", "Darian", "Darrell",
+    "David", "Dennis", "Denzil", "Derek", "Devin", "Dexter", "Dominic",
+    "Donald", "Dorian", "Douglas", "Drogo", "Dunston", "Dwayne", "Dwight",
+    "Dylan", "Earl", "Edgar", "Edmund", "Eldric", "Edward", "Elias", "Elliott",
+    "Elmer", "Elroy", "Emery", "Emmett", "Eric", "Ethan", "Eugene", "Evan",
+    "Everett", "Farley", "Felix", "Fenton", "Finley", "Flint", "Francis",
+    "Franklin", "Frederick", "Galen", "Gareth", "Garrett", "Gavin", "Geoffrey",
+    "George", "Gerald", "Gideon", "Gordon", "Gregory", "Griffin", "Gunther", 
+    "Hank", "Harold", "Harvey", "Hayden", "Hector", "Henry", "Herbert",
+    "Homer", "Hubert", "Ian", "Isaac", "Ivan", "Jack", "Jacob", "James",
+    "Jared", "Jason", "Jeffrey", "Jeremy", "Jerome", "Jesse", "Joel", "John",
+    "Jordan", "Joseph", "Justin", "Keith", "Kenneth", "Kevin", "Kirk", "Kurt",
+    "Kyle", "Lambert", "Lawrence", "Layton", "Leo", "Leonard", "Leroy," "Levi",
+    "Lincoln", "Linus", "Lloyd", "Lorne", "Louis", "Lucas", "Luke", "Malcolm",
+    "Marcus", "Mark", "Martin", "Matthew", "Maurice", "Maverick", "Maximilian",
+    "Michael", "Myles", "Morgan", "Morris", "Myron", "Napoleon", "Nathan",
+    "Neil", "Nicholas", "Nigel", "Norman", "Oliver", "Omar", "Orville",
+    "Osborn", "Oscar", "Oswald", "Otto", "Owen", "Patrick", "Paul", "Percival",
+    "Peter", "Philip", "Piers", "Quinton", "Ralph", "Randolph", "Raphael",
+    "Raymond", "Rayner", "Regan", "Reginald", "Reuben", "Reynard", "Richard",
+    "Robert", "Roderick", "Roger", "Roland", "Ronald", "Ross", "Rowan",
+    "Rupert", "Russell", "Ryan", "Ryland", "Sampson", "Samuel", "Sean",
+    "Sebastian", "Shane", "Sigmund", "Silvester", "Simon", "Skyler", "Stephen",
+    "Terence", "Theodore", "Thomas", "Timothy", "Titus", "Tobius", "Todd",
+    "Tristen", "Tyrone", "Vernon", "Victor", "Vincent", "Virgil", "Walter",
+    "Wayne", "Wesley", "Wilfred", "William", "Zachary" 
+    ]   
+
+Magic_Names = ["Abel", "Achilles", "Adonis", "Agni", "Ajax", "Alvis",
+    "Amon", "Arash", "Argus", "Ashur", "Azriel", "Bacchus", "Bala", "Balder",
+    "Belenus", "Beowulf", "Bhima", "Boreas", "Bragi", "Brahma", "Bran", 
+    "Brokkr", "Brontes", "Cadmus", "Cael", "Cassiel", "Castor", "Cepheus", 
+    "Chanda", "Charon", "Chryses", "Cian", "Conall", "Conor", "Cyrus",
+    "Daedalus" "Dagon", "Daire", "Damon", "Darwyn", "Deimos", "Diederik",
+    "Dinesha", "Diomedes", "Dionysos", "Dipaka", "Drupada", "Dylan", "Enlil",
+    "Eoghan", "Erebus", "Etzel", "Euralus", "Eustace", "Evander", "Faunus",
+    "Fenrir", "Fergus", "Fionn", "Freyr", "Fujin", "Grabriel", "Gandalf",
+    "Girisha", "Glaucus", "Gopala", "Gotama", "Govad", "Gunnar", "Hadad",
+    "Hama", "Heimdall", "Helios", "Herakles", "Hiram", "Hoder", "Horus",
+    "Hyperion", "Iapetos", "Icarus", "Indra", "Inti", "Isha", "Jasper",
+    "Jayanta", "Jeremiah", "Jimmu", "Jonah", "Joshua", "Jove", "Julian",
+    "Kama", "Kane", "Kanti", "Kapali", "Karna", "Kaveh", "Kay", "Khurshid",
+    "Krishna", "Kumara", "Laius", "Leander", "Lech", "Leigong", "Liber",
+    "Llyr", "Mabon", "Magni", "Mahesha", "Malachi", "Manoja", "Marduk", "Mehr", 
+    "Melchios", "Menelaus", "Mervyn", "Meztli", "Micah", "Midas", "Minos",
+    "Mithra", "Mitra", "Mohana", "Mordred", "Morpheus", "Mukesha", "Murali",
+    "Nabu", "Nanda", "Narcissus", "Nechtan", "Neilos", "Nereus", "Nestor",
+    "Ninurta", "Nisus", "Njall", "Noah", "Notus", "Nuada", "Numitor",
+    "Odysseus", "Oisin", "Orestes", "Orion", "Orvar", "Owain", "Palles",
+    "Pangu", "Patroclus", "Peredur", "Perseus", "Perun", "Philander",
+    "Phineus", "Phoebus", "Pollux", "Pontus", "Prabhu", "Priam", "Proteus",
+    "Pryderi", "Ptah", "Pwyll", "Pyrrhus", "Pythios", "Qruirinus", "Radha",
+    "Raguel", "Raijin", "Rajani", "Rama", "Ramiel", "Rangi", "Ravi", "Remus",
+    "Rostam", "Rudolph", "Rufus", "Sampo", "Sanjaya", "Sarosh", "Sarpedon",
+    "Satisha", "Savitr", "Serapis", "Seth", "Shakti", "Shani", "Shankara",
+    "Shyama", "Siegfried", "Sigurd", "Silvius", "Sindri", "Skanda", "Slaine",
+    "Sohrab", "Solomon", "Soroush", "Sosruko", "Suijin", "Sundara", "Suresha",
+    "Surya", "Sushila", "Svarog", "Sylvan", "Tahmuras", "Tane", "Tapio",
+    "Taranis", "Tarhunna", "Thanatos", "Theseus", "Thoth", "Trym", "Turnus",
+    "Tychon", "Tyr", "Ukko", "Ulysses", "Urien", "Uther", "Vahagn", "Varuna",
+    "Vasanta", "Vena", "Vidar", "Vikrama", "Viraja", "Volos", "Weiland",
+    "Woden", "Xanthos", "Xavier", "Yama", "Zephyr"
+    ]
+
+# [Name, Range, Targets, Multiplier]
+Martial_Move = {"Shove": ["Shove", 1, 1, 0.6],
+    "Stone": ["Throw Stone", 3, 1, 0.6],
+    "Power": ["Power Attack", 1, 1, 1.5],
+    "Cleave": ["Cleaving Strike", 1, 4, 0.4],
+    "Throw": ["Shoulder Throw", 1, 1, 0.6],
+    "Trip": ["Trip", 1, 1, 0.6],
+    }
+
+# Elements: Fire, Water, Earth, Air, Steam, Lava, Ice, Electric,
+    Light, Dark, Life, Aether/Void
+# Element Connection Top: Air + Water = Electric, Air + Fire = Smoke
+# Element Connection Bottom: Earth + Fire = Lava, Earth + Water = Ice
+# [Name, Range, Targets, Multiplier, Element]
+# Spell level 1 (Basic), 2 (Greater), 3 (Superior), 4 (Supreme)
+Magic_Attack = {
+    "Wind Blade": ["Wind Blade", 4, 1, 1.5, "Air"], #Single Target Adjacent
+    "Aero": ["Aero", 4, 1, 0.8, "Air"], #Single Target Range
+    "Air Cutter": ["Air Cutter", 3, 4, 0.4, "Air"], #AOE Cross
+    "": ["", 4, 8, 0.6, "Air"], #AOE Square
+    "Wind Fury": ["Wind Fury", 1, 4, 0.4, "Air"], #AOE Adjacent
+    "Wind Shear": ["Wind Shear", 3, 3, 0.6, "Air"], #AOE Line 
+    "Wind Gust": ["Wind Gust", 2, 4, 0.4, "Air"], #AOE Burst
+    "Storm Wall": ["Storm Wall", 4, 3, 0.6, "Air"], #AOE Wall
+
+    "": ["", 1, 1, 1.5, "Water"], #Single Target Adjacent
+    "Bubble": ["Bubble", 4, 1, 0.8, "Water"], #Single Target Range
+    "Whirlpool": ["Whirlpool", 1, 4, 0.4, "Water"], #All Adjacent
+    "Water Bolt": ["Water Bolt", 3, 3, 0.6, "Water"], #All Line 
+    "Spray": ["Aqua Spray", 2, 4, 0.4, "Water"], #All Burst
+    "": ["", 3, 4, 0.4, "Water"], #AOE Cross
+    "Flood": ["Flood", 4, 8, 0.6, "Water"], #AOE Square
+    "Water Wall": ["Water Wall", 4, 3, 0.6, "Water"], #AOE Wall
+
+    "Stone Fist": ["Stone Fist", 1, 1, 1.5, "Earth"], #Single Target Adjacent
+    "Pellet": ["Pellet", 4, 1, 0.8, "Earth"], #Single Target Range
+    "Tremor": ["Tremor", 1, 4, 0.4, "Earth"], #All Adjacent
+    "Mudslide": ["Mudslide", 3, 3, 0.6, "Earth"], #All Line 
+    "Sandstorm": ["Sandstorm", 2, 4, 0.4, "Earth"], #All Burst
+    "Demi Quake": ["Demi Quake", 3, 4, 0.4, "Earth"], #AOE Cross
+    "": ["", 4, 8, 0.6, "Earth"], #AOE Square
+    "Earth Wall": ["Earth Wall", 4, 3, 0.6, "Earth"], #AOE Wall
+
+    "Burning Hand": ["Burning Hand", 1, 1, 1.5, "Fire"], #Single Target Adjacent
+    "Spark": ["Spark", 4, 1, 0.8, "Fire"], #Single Target Range
+    "Flare": ["Flare", 1, 4, 0.4, "Fire"], #All Adjacent
+    "Rolling Fire": ["Rolling Fire", 3, 3, 0.6, "Fire"], #All Line 
+    "Fire Blast": ["Fire Blast", 2, 4, 0.4, "Fire"], #All Burst
+    "Fire Plume": ["Fire Plume", 3, 4, 0.4, "Fire"], #AOE Cross
+    "Fireball": ["Fireball", 4, 8, 0.6, "Fire"], #AOE Square
+    "Fire Wall": ["Fire Wall", 4, 3, 0.6, "Fire"], #AOE Wall
+
+    "Static Strike": ["Static Strike", 1, 1, 1.5, "Electric"], #Single Target Adjacent
+    "Bolt": ["Bolt", 4, 1, 0.8, "Electric"], #Single Target Range
+    "": ["", 1, 4, 0.4, "Electric"], #All Adjacent
+    "Thunderbolt": ["Thunderbolt", 3, 3, 0.6, "Electric"], #All Line 
+    "": ["", 2, 4, 0.4, "Electric"], #All Burst
+    "": ["", 3, 4, 0.4, "Electric"], #AOE Cross
+    "": ["", 4, 8, 0.6, "Electric"], #AOE Square
+    "": ["", 4, 3, 0.6, "Electric"], #AOE Wall
+
+    "Frostbite": ["Frostbite", 1, 1, 1.5, "Ice"], #Single Target Adjacent
+    "Icicle": ["Icicle", 4, 1, 0.8, "Ice"], #Single Target Range
+    "Frostbrand": ["Frostbrand", 1, 4, 0.4, "Ice"], #All Adjacent
+    "Ice Lance": ["Ice Lance", 3, 3, 0.6, "Ice"], #All Line 
+    "Cone of Cold": ["Cone of Cold", 2, 4, 0.4, "Ice"], #All Burst
+    "": ["", 3, 4, 0.4, "Ice"], #AOE Cross
+    "Blizzard": ["", 4, 8, 0.6, "Ice"], #AOE Square
+    "Ice Wall": ["", 4, 3, 0.6, "Ice"], #AOE Wall
+
+    "": ["", 1, 1, 1.5, "Lava"], #Single Target Adjacent
+    "": ["", 4, 1, 0.8, "Lava"], #Single Target Range
+    "": ["", 1, 4, 0.4, "Lava"], #All Adjacent
+    "": ["", 3, 3, 0.6, "Lava"], #All Line 
+    "": ["", 2, 4, 0.4, "Lava"], #All Burst
+    "": ["", 3, 4, 0.4, "Lava"], #AOE Cross
+    "": ["", 4, 8, 0.6, "Lava"], #AOE Square
+    "": ["", 4, 3, 0.6, "Lava"], #AOE Wall
+
+    "": ["", 1, 1, 1.5, "Smoke"], #Single Target Adjacent
+    "": ["", 4, 1, 0.8, "Smoke"], #Single Target Range
+    "": ["", 1, 4, 0.4, "Smoke"], #All Adjacent
+    "": ["", 3, 3, 0.6, "Smoke"], #All Line 
+    "": ["", 2, 4, 0.4, "Smoke"], #All Burst
+    "": ["", 3, 4, 0.4, "Smoke"], #AOE Cross
+    "Acid Fog": ["", 4, 8, 0.6, "Smoke"], #AOE Square
+    "": ["", 4, 3, 0.6, "Smoke"], #AOE Wall
+    }
+
+Magic_Status = {
+    "Blind": ["Blind", 3, 1, 0, "Dark"], #Target Blindness
+    "Shroud": ["Shroud", 4, 8, 0, "Dark"], #AOE Blindness
+    "Cure": ["Cure", 0, 0, 0, "Life"] #Self cure status ailment
+    "Heal": ["Heal", 1, 1, 0, "Life"] #Self or adjacent Health recovery
+    }
+Magic_Other = {
+    "Summon Fire Elemental"...
+    "Fire Shield"...
+    "Stoneskin"...
+    "Frost Armor"...
+    "Deep Freeze"... #paralyze
+    "Earth Ward"...
+    "Tar Pit"... #paralyze
+    
